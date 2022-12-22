@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * string_toupper -> converting any string to upper case
  * @n: string param
