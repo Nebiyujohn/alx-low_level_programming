@@ -7,13 +7,13 @@
  * Return: void
  */
 
-void printf_number(int n)
+void print_number(int n)
 {
 	unsigned int m;
 
 	if (n < 0)
 	{
-		_putchar('_');
+		_putchar('-');
 		m = -n;
 	}
 	else
